@@ -1,0 +1,25 @@
+.o-info-container{
+    width: 100vw;
+    background-color: darkorchid;
+    font-size: 16px;
+}
+
+.o-img-profile{
+    width: 10rem;
+}
+.o-portfolio-container .o-brown{
+    background-color: azure;
+}
+
+.o-portfolio-container{
+    margin: 2rem 5rem;
+    padding: 1rem;
+    background-color: hotpink;
+}
+
+.o-project{
+    background-color: white;
+    margin: 1rem;
+    padding: 1rem;
+}
+
