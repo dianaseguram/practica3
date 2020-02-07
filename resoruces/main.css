@@ -1,25 +1,35 @@
 .o-info-container{
     width: 100vw;
-    background-color: darkorchid;
-    font-size: 16px;
+    height: 65vh;
+    background-image: url("iik.jpg");
+    background-repeat: no-repeat;
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
 .o-img-profile{
-    width: 10rem;
+    width:200px;
+    height:200px;
+    border-radius:150px;
 }
-.o-portfolio-container .o-brown{
-    background-color: azure;
-}
+
 
 .o-portfolio-container{
     margin: 2rem 5rem;
     padding: 1rem;
-    background-color: hotpink;
+    -webkit-box-shadow: -1px 0px 8px 3px rgba(209,209,209,1);
+    -moz-box-shadow: -1px 0px 8px 3px rgba(209,209,209,1);
+    box-shadow: -1px 0px 8px 3px rgba(209,209,209,1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .o-project{
-    background-color: white;
+    background-color: #DEDEDE;
     margin: 1rem;
     padding: 1rem;
 }
 
+.o-info-titles{
+    color:white;
+}
